@@ -56,6 +56,6 @@ public class RobotMap {
   public static final int OI_HUMAN_PLAYER_STATION_ID = 0;
   
   // cargo/panel buttons
-  public static final int OI_PANEL_SELECTOR = 0;
-  public static final int OI_CARGO_SELECTOR = 0;
+  public static final int OI_PANEL_SELECTOR_ID = 0;
+  public static final int OI_CARGO_SELECTOR_ID = 0;
 }
