@@ -33,22 +33,29 @@ public class RobotMap {
   public static final int DRIVETRAIN_RIGHT1_ID = 33;
   public static final int DRIVETRAIN_RIGHT2_ID = 34;
   
+  // joysticks
   public static final int OI_LEFT_ID = 1;
   public static final int OI_RIGHT_ID = 2;
   public static final int OI_OPERATOR_1_ID = 0;
   public static final int OI_OPERATOR_2_ID = 3;
-
+  
+  // driver buttons
   public static final int OI_INTAKE_ID = 0;
   public static final int OI_OUTTAKE_ID = 0;
-
+  
+  // operator buttons
+  public static final int OI_CLIMB_ID = 0;
+  public static final int OI_CLIMB_OVERRIDE_ID = 0;
+  public static final int OI_MANUAL_OVERRIDE = 0;
+  
+  // positional buttons
   public static final int OI_CARGO_SHIP_ID = 0;
-  public static final int OI_CARGO_SHIP_OVERRIDE_ID = 0;
-
   public static final int OI_ROCKET_LEVEL_1_ID = 0;
   public static final int OI_ROCKET_LEVEL_2_ID = 0;
   public static final int OI_ROCKET_LEVEL_3_ID = 0;
-  public static final int OI_ROCKET_OVERRIDE_ID = 0;
-
-  public static final int OI_CLIMB_ID = 0;
-  public static final int OI_CLIMB_OVERRIDE_ID = 0;
+  public static final int OI_HUMAN_PLAYER_STATION_ID = 0;
+  
+  // cargo/panel buttons
+  public static final int OI_PANEL_SELECTOR = 0;
+  public static final int OI_CARGO_SELECTOR = 0;
 }
