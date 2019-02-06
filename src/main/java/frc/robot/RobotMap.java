@@ -46,7 +46,7 @@ public class RobotMap {
   // operator buttons
   public static final int OI_CLIMB_ID = 0;
   public static final int OI_CLIMB_OVERRIDE_ID = 0;
-  public static final int OI_MANUAL_OVERRIDE = 0;
+  public static final int OI_MANUAL_OVERRIDE_ID = 0;
   
   // positional buttons
   public static final int OI_CARGO_SHIP_ID = 0;
